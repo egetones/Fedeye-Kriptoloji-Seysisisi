@@ -1,0 +1,44 @@
+Python Kursu
+1)Python ile Programlamaya Giriş
+https://www.btkakademi.gov.tr/portal/course/python-ile-programlamaya-giris-55951
+
+2)Python 2025 : 100 Günlük Programlama Kampı
+https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/?couponCode=ACCAGE0923
+
+-Bu ikisinden birini *istersen* tamamla (ikisinden biri btk öneririm)
+
+3)Python ile Siber Güvenlik Uygulamaları
+https://www.btkakademi.gov.tr/portal/course/python-ile-siber-guvenlik-uygulamalari-24796
+
+C/C++ Kursu
+1)C++ ile Programlamaya Giriş Temel Seviye
+https://www.btkakademi.gov.tr/portal/course/c-ile-programlamaya-giris-20172
+
+-bu kafi ya uzatmaya çok gerek yok *bence*
+
+Temel Bilişim ve Ağ Güvenliği
+1)Siber Güvenlik 1 (Ağ Güvenliği Temelleri)
+https://enstitu.ibb.istanbul/portal/egitim_detay.aspx?BransCode=2747
+
+2)Temel Ağ ve Siber Güvenlik
+https://www.udemy.com/course/temel-ag-ve-siber-guvenlik/?couponCode=ACCAGE0923
+
+3)CompTIA Security+ Hazırlık Kursu
+https://www.udemy.com/course/comptia-securitysy601-egitim-kursu-comptia-security/?couponCode=ACCAGE0923
+
+Kriptolojiye Giriş ve Klasik Şifreler
+1)Cryptography I & II (Coursera - Stanford/Dan Boneh)
+https://www.coursera.org/learn/crypto
+
+-kolaysa bunu yapma da görem seni ya seve seve ya ...
+
+2)Uygulama Destekli Kriptoloji Eğitimi
+https://www.udemy.com/course/uygulama-destekli-kriptoloji-egitimi/?couponCode=ACCAGE0923
+
+3)Cryptopals Kriptografi Görevleri (Kendi Kendine Öğrenme Platformu)
+https://cryptopals.com/
+
+
+/Ölüm Kitabı/
+Katz-Lindell - Introduction to Modern Cryptography
+https://eclass.uniwa.gr/modules/document/file.php/CSCYB105/Reading%20Material/%5BJonathan_Katz%2C_Yehuda_Lindell%5D_Introduction_to_Mo%282nd%29.pdf

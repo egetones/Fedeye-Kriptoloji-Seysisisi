@@ -1,0 +1,16 @@
+İngilizce Kitaplar
+1)Applied Cryptography (Uygulamalı Kriptografi) - Bruce Schneier
+Az biraz eskidi ama temeller için güzel kitap
+
+2)Cryptography and Network Security - Principles and Practice - William Stallings
+Kriptografiyi ağ güvenliği olarak ele alıyor + üniversitelerde kullanılıyor
+
+3)A Graduate Course in Applied Cryptography - Dan Boneh & Victor Shoup
+Beleş ve online, derinlemesine matematiksel temeller
+
+Türkçe Kitaplar
+1)Şifrelerin Matematiği: Kriptografi - Sedat Akleylek, Cengiz Çimen
+Kriptografinin matematiksel temellerine giriş yapmak için
+
+2)Kriptografiye Giriş Notları (ODTÜ Uygulamalı Matematik Enstitüsü)
+Akademik seviyede bir başlangıç noktası

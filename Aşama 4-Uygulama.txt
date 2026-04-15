@@ -1,0 +1,5 @@
+Proje Geliştirme
+Öğrendiğin şifreleme algoritmalarını (örneğin Sezar, Vigenere, DES/AES'in temel yapıları) Python/C++ ile kendin uygulamaya çalış. Kütüphane kullanmak yerine sıfırdan yazman algoritmaları tam olarak anlamanı sağlar.
+
+CTF'ler (Capture The Flag)
+Kriptoloji kategorisinde sorular içeren CTF yarışmalarına veya platformlarına (örneğin Hack The Box, TryHackMe) katıl ve kriptanaliz becerilerini geliştir.

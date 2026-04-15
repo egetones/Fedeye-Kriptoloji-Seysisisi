@@ -1,0 +1,32 @@
+Matematik ->Kriptografi algoritmaları mat tabanlı
+1)Sayılar Teorisi
+a-https://www.youtube.com/watch?v=oJXwpvxs2W8&list=PL-VAZnoQqQ4XwcALzR2v0WqyLzGPS7mZ4
+b-https://www.youtube.com/watch?v=0vqw4YHQb1c&list=PLI4H85c9vu6I_azzAKlj1SkoOwwIy3IYu
+*İstediğin birisini tamamla*
+
+2)Soyut Cebir
+a-https://www.youtube.com/watch?v=0oh_iI72AMc&list=PLcNWqzWzYG2td6XImMc_P-hFEDrmePNVS
+
+3)Ayrık Cebir
+a-https://www.youtube.com/watch?v=Y5aJMTJqnKA&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp
+
+Yazılım Dili ->Algoritma uygulama ve testler için gerekli
+1)Python
+2)C ve C++
+
+Temel Bilişim Güvenliği ->Kriptografinin pratikte nerede ve nasıl kullanıldığını (TLS/SSL, VPN'ler) anlamak için gerekli
+
+1)Bilgisayar ağları (TCP/IP + okulda öğreniyoz zati)
+
+2)Linux (İşletim sistemi yapısı vıttırı zıt + saldırı toolları vs)
+a-Çok fazla kaynak var bunu ertelesen de olur gibi
+b-Kafa yapına uygun kurs bulamadım daha bakıyom
+
+3)Ağ güvenliği
+a-Ben bunu yıkmayı hacklemeyi biliyom yanlış kişiden tavsiye alma derim
+
+Kriptolojiye Giriş ->Baba firar, alan temel ve terminolojisi için lazım
+a-Az bişe tarihçe
+b-Simetrik ve asimetrik şifreleme
+c-Hash fonksiyonları
+d-Dijital imzalar
